@@ -63,5 +63,5 @@ I am currently dedicated to honing my skills at Trybe, actively seeking job oppo
   <img src="https://www.codewars.com/users/devRenatoRodrigues/badges/small" alt="codewars badge">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devRenatoRodrigues&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devRntRodrigues&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
