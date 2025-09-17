@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hello World, I'm Renato Rodrigues</h1>
-<h3 align="center">Fullstack web developer from São Paulo, Brazil !</h3>
+<h3 align="center">Backend Engineer from São Paulo, Brazil !</h3>
 
 <p align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" alt="the best place in the world" width="300">
