@@ -12,10 +12,23 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" alt="the best place in the world" width="300">
 </p>
 
+<p align="center">
+  I'm passionate about programming - I spend hours as if they were minutes in this universe. <br>
+  Currently working at <b>Ego Eimi</b>, where I collaborate on backend systems in <b>Python</b> and <b>Node.js</b>, <br>
+  building APIs, integrating with AI models, and scaling solutions for real-world challenges. <br>
+  <br>
+  I also had the opportunity to work on projects such as:
+</p>
+
+<ul align="center">
+  <li><b>Vidoso</b> – Python backend for AI video transcription & translation at scale</li>
+  <li><b>Nubrik</b> – Distributed scraper + ML pipeline for real estate data in Buenos Aires</li>
+  <li><b>Groundhog</b> – Multi-tenant collaboration platform with real-time WebSocket features</li>
+  <li><b>Digiage</b> – Java + Talend ETL pipelines for Honda’s manufacturing data</li>
+</ul>
 
 <p align="center">
-I'm passionate about programming, I spend hours as if they were minutes in this universe <br>
-I am currently dedicated to honing my skills at Trybe, actively seeking job opportunities to apply my skills
+  🚀 Always learning, building, and pushing forward.
 </p>
 
 <h4 align="center">Connect with me:</h4>
